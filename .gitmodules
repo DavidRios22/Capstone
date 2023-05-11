@@ -1,0 +1,6 @@
+[submodule "Capstone-Client"]
+	path = Capstone-Client
+	url = https://github.com/DavidRios22/Capstone-Client.git
+[submodule "Capstone-Server"]
+	path = Capstone-Server
+	url = https://github.com/DavidRios22/Capstone-Server.git
